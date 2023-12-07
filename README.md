@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome+to+Kevin-Jung's+GitHub!👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+<div align="left">
 
 I'm Minwoo Jung, a researcher and engineer specializing in LiDAR technology and robotics.
 
