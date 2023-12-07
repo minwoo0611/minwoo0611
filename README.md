@@ -11,8 +11,8 @@
 - I'm Minwoo Jung, a researcher specializing in LiDAR technology and robotics
 
 **Interest**
-- Multiple LiDAR-Inertial SLAM
-- LiDAR based Place Recognition
+- Multiple LiDAR-Inertial SLAM ([MA-LIO](https://github.com/minwoo0611/MA-LIO))
+- LiDAR based Place Recognition ([HeLiPR dataset](https://sites.google.com/view/heliprdataset))
 - Sensor fusion with LiDAR
 
 **Skills**
