@@ -15,8 +15,6 @@
 - LiDAR based Place Recognition
 - Sensor fusion with LiDAR
 
-💬 Please feel free to visit my repository!
-
 **Skills**
 
 <img alt = "3.1 Python" height="20" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
