@@ -32,6 +32,6 @@
 </a>
 
 <a href="s">
-<img src=https://github-profile-trophy.vercel.app/?username=minwoo0611&theme=flat&column=9(https://github.com/dkssud8150/)/ width="110%">
+<img src=https://github-profile-trophy.vercel.app/?username=minwoo0611&theme=flat&column=9(https://github.com/minwoo0611/)/ width="110%">
 </a>
 
