@@ -12,7 +12,7 @@
 
 **Interest**
 - Multiple LiDAR-Inertial SLAM ([MA-LIO](https://github.com/minwoo0611/MA-LIO))
-- LiDAR based Place Recognition ([HeLiPR dataset](https://sites.google.com/view/heliprdataset))
+- LiDAR based Place Recognition ([HeLiPR dataset](https://sites.google.com/view/heliprdataset), [HeLiOS](https://github.com/minwoo0611/HeLiOS))
 - Sensor fusion with LiDAR
 
 **Skills**
